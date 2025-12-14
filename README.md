@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am Fazel Ghaemi, a Product Manager, Project Manager, and Marketing Manager with a strong focus on designing, building, and scaling digital products. My core expertise lies in transforming early‑stage ideas into structured, data‑driven, and profitable products—carefully architected at the intersection of technology, user experience, and business models.<br>Throughout my career, I have led and developed SaaS products, content platforms, and marketing tools, covering the full product lifecycle—from product discovery and vision definition to roadmap design, agile execution, and sustainable growth. My management approach is grounded in systems thinking, data‑driven decision‑making, and a balanced focus on growth, quality, and business objectives.
 
 
@@ -11,11 +11,4 @@ I am Fazel Ghaemi, a Product Manager, Project Manager, and Marketing Manager wit
 ![](https://github-readme-stats.vercel.app/api?username=fazelghaemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fazelghaemi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazelghaemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fazelghaemi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=fazelghaemi&icon=9&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
